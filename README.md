@@ -44,3 +44,40 @@ Project 1 :- Landing Page
 ├── index.html
 
 └── README.md
+
+
+
+
+
+Project 2 :- To do List
+
+## Technologies Used
+
+- **HTML5**: For structuring the web page.
+- **CSS3**: For styling and layout, including a responsive design.
+- **JavaScript**: For adding interactivity, such as task addition, deletion, and local storage handling.
+- **LocalStorage API**: For saving the user's tasks between page reloads.
+
+## Project Structure
+
+To-do-list/ 
+
+│
+
+├── index.html
+
+├── style.css
+
+├── app.js 
+
+├── images/ 
+
+│
+├── icon.png 
+│ 
+├── checked.png
+│ 
+├── unchecked.png
+
+├── favicon.ico 
+
