@@ -20,15 +20,27 @@ Project 1 :- Landing Page
 ## File Structure
 
 │
+
 ├── assets/
+
 │   ├── asset 1.png
+
 │   ├── asset 2.png
+
 │   ├── asset 3.png
+
 │   └── ...
+
 │
+
 ├── css/
+
 │   ├── style.css
+
 │   ├── media-queries.css
+
 │
+
 ├── index.html
+
 └── README.md
