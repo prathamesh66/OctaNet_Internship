@@ -56,7 +56,7 @@ Project 2 :- To do List
 - **HTML5**: For structuring the web page.
 - **CSS3**: For styling and layout, including a responsive design.
 - **JavaScript**: For adding interactivity, such as task addition, deletion, and local storage handling.
-- **LocalStorage API**: For saving the user's tasks between page reloads.
+- **LocalStorage API**: For saving the user's tasks between page reloads..
 
 ## Project Structure
 
